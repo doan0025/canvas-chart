@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#pie-chart{
+    float: left;
+    clear: both;
+    width: 40%;
+}
+
+#own-chart{
+	float: left;
+	width: 40%;
+}
